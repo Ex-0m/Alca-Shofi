@@ -56,32 +56,53 @@ El vértice de la parábola es \( (-2, 1) \), lo que indica que el punto más ba
 ## Guia de Ejercicios
 
 1. Factoriza las siguientes expresiones:
+
    a) $ 3x^2 + 6x $
+   
    b) $ x^2 - 16 $
+   
    c) $ x^2 + 10x + 25 $
+   
    d) $ 2x^2 + 5x + 3 $
+   
    e) $ ax + ay + bx + by $
 
 2. Completa el cuadrado para las siguientes expresiones:
+
    a) $ x^2 + 6x + 5 $
+   
    b) $ 2x^2 + 8x + 10 $
+   
    c) $ x^2 - 4x + 1 $
+   
    d) $ 3x^2 + 12x + 15 $
 
 3. Para cada función cuadrática dada, encuentra el vértice utilizando la técnica de completar el cuadrado:
+
    a) $ y = x^2 + 4x + 4 $
+   
    b) $ y = 2x^2 - 8x + 6 $
+   
    c) $ y = x^2 + 2x + 1 $
+   
    d) $ y = 3x^2 + 6x + 9 $
 
 4. Resuelve las siguientes ecuaciones cuadráticas completando el cuadrado:
+
    a) $ x^2 + 6x + 5 = 0 $
+
    b) $ 2x^2 + 8x + 6 = 0 $
+   
    c) $ x^2 - 4x + 1 = 0 $
+   
    d) $ 3x^2 + 12x + 15 = 0 $
 
 5. Grafica las siguientes funciones cuadráticas y marca el vértice:
+
    a) $ y = x^2 + 4x + 4 $
+   
    b) $ y = 2x^2 - 8x + 6 $
+   
    c) $ y = x^2 + 2x + 1 $
+   
    d) $ y = 3x^2 + 6x + 9 $
